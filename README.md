@@ -1,1 +1,0 @@
-# deleteme-copy-prod-db.sh
