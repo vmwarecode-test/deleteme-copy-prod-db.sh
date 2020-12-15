@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# SOME MORE CONTENT
+
 BACKUP_DIR=${HOME}/db-backup
 
 mkdir -p ${BACKUP_DIR}
